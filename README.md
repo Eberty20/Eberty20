@@ -8,7 +8,8 @@
 
 • Pré-venda Cloud (Cotações de licença de software, apresentações técnicas); • Formatação e instalação de equipamentos; • Conhecimento em Linux; • Conhecimento em Segurança da Informação; • Conhecimento em Pyhton; • Conhecimento em automação com Scripts; ...e muito mais!
 
-
+<hr>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,django,py,ps,figma,svg,azure,aws,docker,github,linux,ubuntu,windows,powershell,sqlite,sublime,vscode,arduino)](https://skillicons.dev)
 
+<hr>
