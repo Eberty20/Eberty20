@@ -21,14 +21,12 @@
   <a href="https://github.com/Eberty20">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Eberty20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-
 <hr>
 
 <div> 
-  
+   <a href="https://www.linkedin.com/in/eberty-neres-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ebertyrocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eberty26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eberty-neres-rocha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/eberty.neres"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
   
 </div>
