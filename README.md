@@ -5,7 +5,7 @@
 
 <hr>
 
-🧬⚛️ Técnico em Mecatrônica, estudante de Bacharel em Tecnonoliga da Informação e Técnico em Marketing, 10 anos de carreira em indústria e serviços de eletrônica, atualmente atuando na área de Computação em Nuvem.
+🧬⚛️ Olá mundo! Meu nome é Eberty, tenho 26 anos, sou Técnico em Mecatrônica, estudante de Bacharel em Tecnonoliga da Informação e Técnico em Marketing, tenho 10 anos de carreira em indústria e serviços de eletrônica, atualmente atuando na área de Computação em Nuvem.
 
 <hr>
 
