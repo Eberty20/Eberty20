@@ -5,7 +5,7 @@
 
 <hr>
 
-🧬⚛️ Estudante de Tecnonoliga da Informação, e atuante na área de Computação em Nuvem.
+🧬⚛️ Técnico em Mecatrônica, estudante de Bacharel em Tecnonoliga da Informação e Técnico em Marketing, 10 anos de carreira em indústria e serviços de eletrônica, atualmente atuando na área de Computação em Nuvem.
 
 <hr>
 
