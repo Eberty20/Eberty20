@@ -10,5 +10,5 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,c,django,py,ps,figma,svg,azure,aws.docker,github,linux,ubuntu,windows,powershell,sqlite,sublime,vscode,arduino)](https://skillicons.dev)
 
