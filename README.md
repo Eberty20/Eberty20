@@ -1,5 +1,5 @@
 <hr>
-https://camo.githubusercontent.com/8c0692475a5bfc1d9e7361074bdb648e567cae7b5b40ffd32adae31180b0d7b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465
+![image](https://github.com/user-attachments/assets/9fd16150-dff1-46ce-95fe-1819ebe9eaf8)
 <hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=0767F7&center=true&vCenter=true&width=800&lines=Seja+bem-vindo+ao+meu+Git+Hub+%3A);Meu+nome+%C3%A9+Eberty+Neres+Rocha;Trabalho+com+Cloud+Computing;Curso+Tecnologia+da+Informa%C3%A7%C3%A3o.;Al%C3%A9m+disso%3F+Tem+muito+mais!;Entre+em+contato+comigo!" alt="Typing SVG" /></a>
 
