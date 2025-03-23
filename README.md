@@ -24,7 +24,7 @@
 <hr>
 
 <div> 
-   <a href="https://www.linkedin.com/in/eberty-neres-rocha/"<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/eberty-neres-rocha/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ebertyrocha/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eberty26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CA4F3F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/eberty.neres"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
