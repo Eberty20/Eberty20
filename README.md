@@ -1,3 +1,6 @@
+<hr>
+Mecatrônica | TI | Marketing | Cloud | Design | Dev | CIPA | Indústria 4.0
+<hr>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=0767F7&center=true&vCenter=true&width=800&lines=Seja+bem-vindo+ao+meu+Git+Hub+%3A);Meu+nome+%C3%A9+Eberty+Neres+Rocha;Trabalho+com+Cloud+Computing;Curso+Tecnologia+da+Informa%C3%A7%C3%A3o.;Al%C3%A9m+disso%3F+Tem+muito+mais!;Entre+em+contato+comigo!" alt="Typing SVG" /></a>
 
 <hr>
